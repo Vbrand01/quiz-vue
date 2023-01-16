@@ -2,7 +2,7 @@
 
   # QUIZ VB
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Desenvolvido&color=brown&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Desenvolvido&color=green&style=for-the-badge)
 ![Uploading 2023-01-16-15-20-32.gif…]()
 
 
